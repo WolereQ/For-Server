@@ -17,8 +17,8 @@ public class ChatCommand implements CommandExecutor{
 		if(cmd.getName().equalsIgnoreCase("voucher")){
 			
 			
-			Bukkit.broadcastMessage(ChatColor.RED + "" + ChatColor.BOLD + "VOUNCHER" + ChatColor.DARK_GRAY + "»" + 
-			ChatColor.RED + args[0]  + " wpisz ten kod na stronie:http://www.97328.enmc.pl/ w zak³adce z ranga i trybem vouncher");
+			Bukkit.broadcastMessage(ChatColor.RED + "" + ChatColor.BOLD + "VOUCHER" + ChatColor.DARK_GRAY + "Â» " + 
+			ChatColor.RED + args[0]  + " wpisz ten kod na stronie: " + ChatColor.GOLD + "http://www.97328.enmc.pl/" + ChatColor.RED + " w zakÅ‚adce z ranga i trybem voucher");
 			
 			
 		}
