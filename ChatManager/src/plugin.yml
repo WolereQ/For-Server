@@ -1,0 +1,8 @@
+name: WChatManager
+version: 1.0
+main: cm.wolerek.Main
+authors: [__WolereK__]
+
+commands:
+  chat:
+  voucher:
